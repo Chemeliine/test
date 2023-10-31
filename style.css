@@ -1,0 +1,86 @@
+header{
+    color: rgb(255, 255, 255);
+    background-color: rgba(13, 112, 79, 0.774);
+    background-image: url(https://s74794.cdn.ngenix.net/m/3f69/113c/f3c2/4e88/a59b/67f4/55ff/a3fc/1600_10000_max.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 50px ;
+    padding-bottom: 50px;
+height: 100%;
+
+
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    color:rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    padding-bottom: 50px;
+}
+main{ background-image:url(https://www.tursar.ru/image/img1501_0.jpg) ;
+    height: 50%;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+    
+}
+footer{background-color: rgb(18, 4, 31);
+    height: 100%;
+    color: rgb(114, 123, 243);
+    font-size: 20px;
+   display: flex; 
+}
+.left{
+    background-color: rgba(95, 95, 246, 0.356);
+    height: 100%;
+    width: 33%;
+    float: left;
+    padding:10px;
+    text-align: justify;
+    
+    
+}
+.centerrr{
+    background-color: rgba(147, 237, 207, 0.192);
+    height: 1000px;
+    width:33% ;
+    padding:10px;
+    text-align: center;
+}
+.right{
+    background-color: rgba(147, 237, 207, 0.192);
+    height: 100%;
+    width:33% ;
+    float:right;
+    padding:10px;
+    text-align: center;
+   
+}
+.cont{
+    width: 80%;
+    height: 100%;
+    display: flex;
+}
+body{
+    margin: 0;
+}
+.ft_left{
+    width: 30%;
+    float: left;
+    padding: 20px; ;
+    
+    }
+    .ft_right{
+        padding: 20px;
+    width: 70%;
+    float:right
+    }
